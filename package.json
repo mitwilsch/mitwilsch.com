@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://mitwilsch.github.io/mitwilsch.com/",
+  "homepage": "https://mitwilsch.github.io/mitwilsch.com",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
